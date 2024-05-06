@@ -30,8 +30,8 @@ def convert_and_remove_bg(input_folder, output_folder):
     print("Conversion and background removal completed.")
 
 # Specify the input and output folders
-input_folder = r"C:\Users\kik0\Pictures\JPG Images"
-output_folder = r"C:\Users\kik0\Pictures\Characters"
+input_folder = r""
+output_folder = r""
 
 # Call the function
 convert_and_remove_bg(input_folder, output_folder)

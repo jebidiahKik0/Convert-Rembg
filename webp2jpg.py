@@ -21,6 +21,6 @@ def convert_webp_to_jpg(source_folder, output_folder):
     print(f"All .webp images from {source_folder} have been converted to .jpg in {output_folder}")
 
 # Example usage
-source_folder = r"C:\Users\kik0\Pictures\Webp DnD Images"
-output_folder = r"C:\Users\kik0\Pictures\JPG Images"
+source_folder = r""
+output_folder = r""
 convert_webp_to_jpg(source_folder, output_folder)
